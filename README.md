@@ -14,7 +14,7 @@ I help companies hire top talent in Software Development, Java Developers, UI&UX
 
 ### 📩 Contact Me
 - Email: rekha.jakkula@enfec.com
-  - GitHub: github.com/yourusername  
+  - https://github.com/RekhaJakkula 
 
 ### ⭐ Fun fact  
 I enjoy reading developer projects on GitHub and matching them to the perfect job!
